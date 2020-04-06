@@ -10,10 +10,10 @@
         }
     ],
     "require": {
-    	"php": ">=5.5.0",
-        "illuminate/console": "^5.1",
-        "illuminate/filesystem": "^5.1",
-        "fzaninotto/faker": "^1.5"
+    	"php": "^7.2",
+      "illuminate/console": "^5.1|^6",
+      "illuminate/filesystem": "^5.1|^6",
+      "fzaninotto/faker": "^1.5"
     },
     "autoload": {
     	"psr-4": {
